@@ -1,5 +1,3 @@
-#!/system/bin/sh
-#!/data/data/com.termux/files/usr/bin/bash
 #!/system/xbin/bash
 
 # Bersihkan Layar
